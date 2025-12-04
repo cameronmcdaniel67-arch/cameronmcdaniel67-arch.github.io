@@ -1,6 +1,28 @@
 # CameronMcdaniel67-Arch.github.io
 Sgx3-fall-training-2025
-Professional Summary
-I am a dynamic and adaptable professional with a proven ability to thrive in challenging environments, bringing a strong blend of teamwork and independent problem-solving to every task. My experience as an intern at Everyday Angels in Portsmouth, VA, honed my organizational and crisis management skills, where I efficiently managed workloads, de-escalated conflicts, and supported client well-being through attentive care and social engagement. With a commitment to excellence, I consistently go beyond expectations, leveraging my quick learning ability and strong communication skills to deliver high-quality results in fast-paced settings.
-My technical aptitude and eagerness to grow are evident in my academic journey as a sophomore pursuing a degree in Computer and Electrical Engineering at Elizabeth City State University, where I maintain a 3.12 GPA. I have developed foundational skills in Python, Terminal/Bash, and GitHub, complementing my practical experience in inventory management and customer service from over two years at Jersey Mike’s in Suffolk, VA. At Jersey Mike’s, I demonstrated efficiency, teamwork, and a customer-focused approach, ensuring a clean, safe, and well-stocked environment while fostering positive relationships with colleagues and customers.
-Beyond my professional and academic pursuits, I bring leadership and discipline from my role as a two-year starter on the Elizabeth City State University football team. My ability to prioritize tasks, think creatively and analytically, and resolve conflicts makes me a versatile contributor to any team. With a solid foundation from my high school education (3.0 GPA, King’s Fork High School, 2024) and a passion for continuous learning, I am excited to apply my skills and dedication to new opportunities in engineering and beyond.
+# 💫 About Me:
+My name is Cameron McDaniel Jr. I am a 2-year college student at Elizabeth City State University, pursuing a degree in Electrical and Computer Engineering. <br>I was born and raised in Virginia and lived in Portsmouth and Suffolk most of my life <br>Graduated from King's Fork High School on the honor roll with a GPA of 3.2.<br>I love working with computers and cars, which made me want to be an Engineer, and I'm extremely passionate about the field I want to be in.<br><br> 
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/life876) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cam_mcdan1el) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cameron McDaniel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CameronMcD5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cameronmcdaniel67@gmail.com) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cameronmcdaniel67-arch&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cameronmcdaniel67-arch&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cameronmcdaniel67-arch&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cameronmcdaniel67-arch&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cameronmcdaniel67-arch&icon=4&color=5)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Cameron McDaniel) 
+
