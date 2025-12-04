@@ -1,7 +1,6 @@
 # CameronMcdaniel67-Arch.github.io
 Sgx3-fall-training-2025
 # 💫 About Me:
-
 My name is Cameron McDaniel Jr. I am a 2-year college student at Elizabeth City State University, pursuing a degree in Electrical and Computer Engineering. <br>I was born and raised in Virginia and lived in Portsmouth and Suffolk most of my life <br>Graduated from King's Fork High School on the honor roll with a GPA of 3.2.<br>I love working with computers and cars, which made me want to be an Engineer, and I'm extremely passionate about the field I want to be in.<br><br> 
 
 
